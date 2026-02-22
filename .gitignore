@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# CatBoost
+catboost_info/
+
+# Data files (if needed, uncomment specific patterns)
+Zentora/OULAD/studentVle.csv
+*.csv
+# *.npy
